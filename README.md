@@ -2,7 +2,6 @@
 Web app Link: [https://apurvayadav-cyberbullying-tweet-recognition-app-webapp-z6y643.streamlitapp.com/](https://apurvayadav-cyberbullying-tweet-recognition-app-webapp-z6y643.streamlitapp.com/)
 
 This app predicts the nature of the tweet into 6 Categories.
-
 * Age
 * Ethnicity
 * Gender
